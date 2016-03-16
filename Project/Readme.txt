@@ -1,0 +1,1 @@
+Nale¿y podaæ œcie¿ke do biblioteki MyLib.jar, która znajduje sie w folderze .\MyLib\dist\MyLib.jar w projekcie serwera oraz klienta.
